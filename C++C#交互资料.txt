@@ -1,0 +1,9 @@
+1. C#与C++交互的两种方法
+    https://www.cnblogs.com/ye-ming/p/7883579.html
+    其中 C++/Cli很受推荐（使用时候需要用安装器安装组件--默认不预安装）
+2. window编程实验   ---   介绍的动态链接库方法总结
+    https://blog.csdn.net/yanhuatangtang/article/details/78889321
+3.  一个交互的实例展示
+    基础篇   https://www.cnblogs.com/skyfreedom/p/11773597.html
+    进阶篇   https://www.cnblogs.com/skyfreedom/p/11773597.html
+    博主项目地址    https://github.com/tomorrowGooddays/Invoke
