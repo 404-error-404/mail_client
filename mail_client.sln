@@ -5,12 +5,12 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail_UI", "mail_UI\mail_UI.csproj", "{F5E3F57C-B043-45E0-A3FC-B69F418688A8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mail_dll", "mail_dll\mail_dll.vcxproj", "{2B544A79-0422-4E05-BA04-EC97B42EB077}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E92AD1D-43C2-46A2-88CA-FE88126C87DC}"
 	ProjectSection(SolutionItems) = preProject
 		参考文献.txt = 参考文献.txt
 	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mail_dll", "mail_dll\mail_dll.vcxproj", "{04E35576-EE94-40B2-911E-521925DBC9CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,16 +34,16 @@ Global
 		{F5E3F57C-B043-45E0-A3FC-B69F418688A8}.Release|x64.Build.0 = Release|Any CPU
 		{F5E3F57C-B043-45E0-A3FC-B69F418688A8}.Release|x86.ActiveCfg = Release|Any CPU
 		{F5E3F57C-B043-45E0-A3FC-B69F418688A8}.Release|x86.Build.0 = Release|Any CPU
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Debug|x64.ActiveCfg = Debug|x64
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Debug|x64.Build.0 = Debug|x64
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Debug|x86.ActiveCfg = Debug|Win32
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Debug|x86.Build.0 = Debug|Win32
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Release|Any CPU.ActiveCfg = Release|Win32
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Release|x64.ActiveCfg = Release|x64
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Release|x64.Build.0 = Release|x64
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Release|x86.ActiveCfg = Release|Win32
-		{2B544A79-0422-4E05-BA04-EC97B42EB077}.Release|x86.Build.0 = Release|Win32
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Debug|x64.ActiveCfg = Debug|x64
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Debug|x64.Build.0 = Debug|x64
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Debug|x86.Build.0 = Debug|Win32
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Release|x64.ActiveCfg = Release|x64
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Release|x64.Build.0 = Release|x64
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Release|x86.ActiveCfg = Release|Win32
+		{04E35576-EE94-40B2-911E-521925DBC9CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

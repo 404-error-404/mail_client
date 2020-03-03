@@ -5,3 +5,6 @@ Spring-boot搭建邮件服务 https://juejin.im/post/5d79af986fb9a06b1c745908
 C++实现含附件的邮件发送功能 https://www.jb51.net/article/140979.htm
 C++发邮件简单实例详解 https://www.jb51.net/article/140977.htm
 使用SMTP 和POP3 协议实现收发邮件（C/C++） https://blog.csdn.net/yuzhenxiong0823/article/details/7713059
+windows下编写dll https://www.cnblogs.com/weiyinfu/p/11235273.html#15
+Walkthrough: Create and use your own Dynamic Link Library (C++) https://docs.microsoft.com/zh-cn/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=vs-2019
+C#实战023:解决添加xxx.dll的引用时报错，请确保xxx是有效的程序集或者COM组件 https://blog.csdn.net/kevinfan2011/article/details/84586587
