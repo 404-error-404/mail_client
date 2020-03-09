@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail_UI", "mail_UI\mail_UI.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E92AD1D-43C2-46A2-88CA-FE88126C87DC}"
 	ProjectSection(SolutionItems) = preProject
+		C++C#交互资料.txt = C++C#交互资料.txt
 		参考文献.txt = 参考文献.txt
 	EndProjectSection
 EndProject
